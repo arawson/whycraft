@@ -85,6 +85,8 @@
   "advancements.story.form_obsidian.title": "Shitty Ice Bucket Challenge",
   "advancements.story.iron_tools.title": "Isn't It Iron Prick",
   "advancements.story.lava_bucket.title": "Lava Burns. Who Could Have Guessed?",
+  "advancements.husbandry.safely_harvest_honey.title": "It's Hip to Fuck Bees",
+  "advancements.husbandry.obtain_sniffer_egg.title": "A Lot of Work for 2 Unique Flowers",
   "advancements.story.mine_diamond.title": "White Gold Pants, Jetski Made of Yuan, Foie gras bust of Albert Einstein, Get Money",
   "advancements.story.mine_stone.title": "Stone Age",
   "advancements.story.obtain_armor.title": "COME GET YER ARMOR!",
@@ -93,6 +95,7 @@
   "advancements.story.smelt_iron.title": "Acquire Hardware",
   "advancements.story.upgrade_tools.title": "Come get yer Iron!",
   "advancements.story.enchant_item.title": "Haha you pissed away a bunch of experience on shitty RNG.",
+  "advancements.nether.fast_travel.title": "Bubspace Subble",
 
   "death.attack.magic": "%1$s was killed by hacks",
   "death.attack.inWall": "%1$s suffocated in a wall like an idiot",
@@ -107,5 +110,6 @@
   "death.attack.sting": "%1$s fucked bees",
 
   "subtitles.entity.enderman.ambient": "He just shows up...",
+  "death.fell.accident.scaffolding": "%1$s needs to file a workman's comp claim",
   "death.attack.outOfWorld": "%1$s fell out of the world via hacks"
 }
