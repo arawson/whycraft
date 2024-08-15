@@ -16,8 +16,7 @@ on:
 jobs:
   build-main:
     runs-on: ubuntu-latest
-    # Only run on PRs if the source branch is on someone else's repository
-    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
+    if: startsWith(github.ref, 'refs/tags/v')
     steps:
       # Clones repository so it has access to the files
       - name: Checkout repo
@@ -35,7 +34,7 @@ jobs:
       - name: Compile and upload
         uses: actions/upload-artifact@v4
         with:
-          name: whycraft v1
+          name: whycraft
           path: |
                data/
                pack.mcmeta
