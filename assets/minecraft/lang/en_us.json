@@ -20,6 +20,7 @@
   "item.minecraft.diamond_shovel": "Diamond Shove'll",
   "item.minecraft.golden_shovel": "Golden Shove'll",
   "item.minecraft.netherite_shovel": "Netherite Shove'll",
+  "item.minecraft.magma_cream": "Magma Balls",
   "item.minecraft.potion.effect.awkward": "Awkward Potion't",
   "item.minecraft.potion.effect.thick": "Thicc Potion't",
   "item.minecraft.potion.effect.mundane": "Mundane Potion't",
@@ -108,6 +109,8 @@
   "death.attack.lightningBolt": "%1$s has shattered into innumerable pieces",
   "death.attack.lava": "Jump in the lava, %1$s",
   "death.attack.sting": "%1$s fucked bees",
+  "death.attack.cramming": "%1$s was cramdogged",
+  "death.attack.cramming.player": "%1$s was cramdogged by %2$s",
 
   "subtitles.entity.enderman.ambient": "He just shows up...",
   "death.fell.accident.scaffolding": "%1$s needs to file a workman's comp claim",
